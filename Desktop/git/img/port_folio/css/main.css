@@ -1,0 +1,30 @@
+.first {
+  font-style: italic;
+  color: bisque;
+  background-color: darkcyan;
+  align-items: center;
+}
+
+#latestComment {
+  font-style: italic;
+  color: azure;
+}
+
+a:link{
+  text-decoration: underline;
+  color: cadetblue;
+}
+
+a:visited{
+  text-decoration: underline;
+  color: purple;
+}
+
+a:hover{
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:active{
+  background-color: aqua;
+}
